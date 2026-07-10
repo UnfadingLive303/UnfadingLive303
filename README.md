@@ -2,4 +2,3 @@
 
 - Atualmente estudo desenvolvimentos de jogos digitais
   
--->
